@@ -18,5 +18,8 @@ public class PlayerMovement : MonoBehaviour {
         if (Input.GetKey("left") || Input.GetKey("a")) {
             player.AddForce(-sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
+        if (player.position.y < -1f) {
+            FindObjectOfType<GameManager>().EndGame();
+        }
     }
 }
