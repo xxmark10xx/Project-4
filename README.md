@@ -98,6 +98,7 @@ As a user I want to be able to play a functioning game that will allow me to mov
 ## MVP's
 Using the Unity Game Engine and C# to have a working functioning 3D game that allows the player to move there car left to right on a plane while dodging obsticles in this case other cars in traffic. 
 
+---
 
 ## Unsolved Problems and Major Hurdles Overcame
 
@@ -108,3 +109,18 @@ Using the Unity Game Engine and C# to have a working functioning 3D game that al
 * being able to commit my work from VSCode to GitHub, once I made the Unity project and put it in my project folder it did not allow me to upload to GitHub since there were like 126 files need to be uploaded. It wasn't until I finshed my game that I researched it and found that with Unity there is a .gitignore file that I needed with about 72 lines of ignore files needed in it.
 
 * An Unsolved problem was deployment of the app as of now I can only use play the game locally since I wasn't able to find a way to add the game file onto a react app since I used C# instead of javascript. 
+
+---
+
+## Stetch Goals
+* be able to show how far the player goes. (Done)
+* make an end and load next level. (Not Done)
+
+---
+
+## Future for Running Late
+* allow the user to pause the game.
+* be able to pass a level and load a new one.
+* have an end game screen. 
+* add a cool skybox instead of a soild color background.
+
