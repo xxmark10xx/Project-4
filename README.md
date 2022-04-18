@@ -85,7 +85,7 @@ public class PlayerCollision : MonoBehaviour {
 ## Wireframes
 ![RunningLate](./Wireframe.png)
 
----git 
+---
 ## Picture of the Game
 ![RunningLate](./Game.png)
 
