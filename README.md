@@ -83,11 +83,11 @@ public class PlayerCollision : MonoBehaviour {
 ```
 
 ## Wireframes
-![RunningLate](./Screen%20Shot%202022-04-11%20at%207.48.36%20PM.png)
+![RunningLate](./Wireframe.png)
 
----
+---git 
 ## Picture of the Game
-![RunningLate](./Screen%20Shot%202022-04-18%20at%201.25.50%20AM.png)
+![RunningLate](./Game.png)
 
 ---
 ## User Stories
